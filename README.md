@@ -1,2 +1,4 @@
 # exercise-repo
-Test Exercise Repository
+This Project will contain...
+Repository made for exercises and testing
+
