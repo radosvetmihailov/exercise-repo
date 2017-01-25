@@ -1,2 +1,2 @@
 # exercise-repo
-Test Exercise Repository
+Repo made for exercise
